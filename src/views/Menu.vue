@@ -29,10 +29,10 @@
                 <v-btn
                   to="/DescobrirDivisaoSubrede"
                   color="primary"
-                  dark
                   v-on="on"
                   block
                   outlined
+                  disabled
                 >Divisão atual da subrede</v-btn>
               </v-card-text>
             </v-card>
